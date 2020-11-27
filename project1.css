@@ -1,0 +1,79 @@
+ /*  .b{
+        position: relative;
+        left:330px;
+    } */
+    .l1{
+        position: relative;
+        left:600px; 
+    }
+    .l{
+        position: relative;
+        left:550px; 
+    }
+    #a1{
+        position: relative;
+        left:300px; 
+    }
+    #a2{
+        position: relative;
+        left:330px; 
+    }
+    #a3{
+        position: relative;
+        left:300px; 
+    }
+    #a4{
+        position: relative;
+        left:630px; 
+        top:-33px;
+    }
+    #a5{
+        position: relative;
+        left:400px; 
+    }
+    #a6{
+        position: relative;
+        left:450px; 
+    }
+    #a7{
+        position: relative;
+        left:300px; 
+    }
+    #a8{
+        position: relative;
+        left:630px;
+        top:-20px; 
+    }
+    .ca{
+        position: relative;
+        left:100px;
+       
+    }
+     #f{
+       
+      background-color: lightblue;
+        width:890px;
+        position: relative;
+        left:330px;
+     }
+    .l2{
+        position: relative;
+        left:588px;
+       
+    }
+    #a11{
+        text-align: center;
+        /* background-color: aqua; */
+        color:white;
+        font-size:40px ;
+        
+        
+    }
+    #f1{
+     position: relative;
+     left: -200px;
+    }
+    #c1{
+        position: relative;
+        right:-200px;
+    }
